@@ -1,109 +1,267 @@
 # Alminnelige betingelser for Bjerk AS
 
-## 1. Innledning
+## Betingelser
 
-### 1. 1. Betingelser
+Disse generelle avtalevilkår gjelder ved leveranse av tjenester og produkter
+(Leveransen) fra Bjerk AS (Leverandøren), såfremt ikke annet er skriftlig avtalt
+mellom Leverandøren og kunden (Kunden) og/eller regulert i særskilte betingelser
+knyttet til den enkelte del av Leveransen.
 
-Disse vilkår gjelder ved kjøp av tjenester og produkter fra Bjerk AS såfremt ikke vilkårene er endret ved skriftlig avtale mellom Bjerk AS og Kunden.
-Med mindre annet er avtalt, er betingelsene gjeldende også ved gjentatte oppdrag for Kunden.
+## Definisjon
 
-### 1. 2. Definisjon
+Med Bjerk AS menes Bjerk AS med organisasjonsnummer 998 732 867 registrert
+Brønnøysundregistrene. Med «Kunden» menes den person eller instans som bestiller
+en tjeneste eller et produkt fra Leverandøren.
 
-Med Bjerk AS menes Bjerk AS med organisasjonsnummer 998 732 867 registrert Brønnøysundregistrene. Med Kunden menes i dette dokumentet den person eller instans som bestiller en tjeneste eller vare fra Bjerk AS.
+## Informasjon om Leveransen
 
-## 2. Oppdraget
+Kunden skal gis tilgang til dokumentasjon som Leverandøren vanligvis lar følge
+med ved Leveransen.
 
-### 2. 1. Bestilling og ordrens gyldighet
+Leverandøren tar forbehold om (i) at det kan forekomme trykkfeil på nettsiden, i
+kataloger eller i annet markedsføringsmateriale, (ii) at tjenester/produkter
+ikke er tilgjengelige og (iii) at bilder ikke overensstemmer med
+tjenestenes/produktenes virkelige utseende.
 
-Bindende bestilling finner sted når Kunde sender bestillingsskjema til Bjerk AS, når Kunde aksepterer disse avtalevilkår ved bekreftelse i elektronisk skjema eller når Kunde avgir bestilling pr telefon. Bestilling er bindende, selv om Kunde ikke har ferdig utfylt alle nødvendige skjema eller har levert alle nødvendige opplysninger. Bjerk AS forbeholder seg retten til å avvise alle bestillinger uten begrunnelse, mot tilbakeføring av eventuelle betalinger fra Kunde.
+## Elektronisk post
 
-### 2. 2. Oppdragets beskrivelse
+Kunden godtar at opplysninger og dokumenter, herunder alle fakturaer, purringer
+og inkassovarsel, i sakens anledning sendes og lagres elektronisk – herunder som
+e-post.
 
-Oppdragets beskrivelse skal fremgår av ordrebekreftelse, supplert av de avtaler som følger av annen muntlig eller skriftlig korrespondanse. 
+## Underleverandører
 
-### 2. 3. Korrekt informasjon
+Leverandøren har rett til å benytte underleverandører/tredjeparter i forbindelse
+med Leveransen.
 
-Kunde forplikter seg til å gi Bjerk AS all relevant informasjon i sakens anledning – og å holde slik informasjon oppdatert. Dette gjelder også Kundens egen kontaktinformasjon. Likeledes skal Kunde gi Bjerk AS varsel om alle aktuelle henvendelser fra tredjemann direkte til Kunden.
-Dersom Bjerk AS som følge av Kundes brudd på pliktene i dette punkt, påføres ansvar overfor tredjemann eller andre former for kostnader, bærer Kunde ansvar for disse.
+## Korrekt informasjon
 
-### 2. 4. Underleverandører
+Kunden forplikter seg til å gi Leverandøren all relevant informasjon i sakens
+anledning, samt og å holde slik informasjon oppdatert. Dette gjelder også
+Kundens egen kontaktinformasjon. Likeledes skal Kunden gi Leverandøren varsel om
+alle aktuelle henvendelser fra tredjemann direkte til Kunden.
 
-Bjerk AS har rett til å benytte underleverandører i forbindelse med sin leveranse av produkter og tjenester.
+Dersom Leverandøren, som følge av Kundes brudd på pliktene i dette punkt,
+påføres ansvar overfor tredjemann eller andre former for kostnader, bærer Kunden
+ansvaret for disse.
 
-### 2. 5. Næringskjøp
+## Priser / Merverdiavgift
 
-Kunde er kjent med at alle tjenester levert av Bjerk AS er å anse som næringskjøp og at særlige bestemmelser for forbrukerkjøp således ikke kommer til anvendelse.
+Leverandørens veiledende priser fremgår på nettsiden, prisliste eller ved
+spesifisert tilbud/Avtale. Nettsiden oppdateres regelmessig. Prisen som angis
+her er ikke å anse som bindene for Leverandøren, all tid disse når som helst kan
+justeres.
 
-## 3. Honorar og fakturering
+Pris oppgitt i Avtale vil gjelde for den Leveranse som er omfattet av Avtalen.
+Dersom pris ikke er oppgitt i Avtalen, vil pris oppgitt i Leverandørens tilbud
+gjelde. Dersom det ikke er utstedt tilbud, gjelder prisen angitt på faktura
+gjeldende de tjenester og produkter som er omfattet av fakturaen.
 
-### 3. 1. Timesalær
+Alle priser er oppgitt eks. avgifter med mindre annet er særskilt angitt. Ulike
+faktorer avgjør hvilken MVA-sats som belastes, blant annet hvor Kunden er
+lokalisert. Beregning av MVA vil spesifiseres på faktura, og satser fremgår av
+egen oversikt.
 
-Om ikke annet er avtalt, faktureres det per påbegynte time.  De veiledende timesatser fremgår av oppdragsbekreftelse eller oppgis på forespørsel. Honoreringen gjøres basert på effektiv og fagmessig tid som er medgått.
+Avtalte priser kan endres ved hvert årsskifte tilsvarende økningen i Statistisk
+sentralbyrås konsumprisindeks (hovedindeksen), første gang med utgangspunkt i
+indeksen for den måned Avtale ble inngått. Avtalte priser kan også endres i den
+utstrekning regler eller vedtak for offentlige avgifter endres med virkning for
+Leverandørens vederlag eller kostnader.
 
-### 3. 2. Betaling
+Endringer i priser for tredjepartsleveranser som inngår i Leveransen gir krav på
+prisendringer for Leveransen med mindre annet er særskilt avtalt.
 
-Bjerk AS forbeholder seg retten til å gi avslag på søknad om kreditt uten nærmere begrunnelse. Alle kunder kan bli kredittsjekket. Ved kredittsalg gis det 10 dagers kreditt, om ikke annet er regulert i egen avtale. I tilfeller hvor kontraktens verdi overstiger den samlede sum av 50 000 vil 30% av beløpet forhåndsfaktureres innen oppdraget starter / varer kjøpes inn.
-Dersom en bestilling ikke betales eller holdes tilbake av betalingsformidler eller av andre grunner ikke korrekt utbetales Bjerk AS, er bestillingen likefullt bindende for Kunde. Korrekt betaling skal i disse tilfeller skje umiddelbart.
-Bjerk AS og Bjerk AS' samarbeidspartnere kan fakturere ekstra for eventuelle møter med Kunde, og for ekstraordinært arbeid som Kunde ønsker utført og som ikke normalt er inkludert. Likeledes kan det faktureres ekstra for andre ekstraordinære omkostninger. Ved forsinket betaling beregnes en forsinkelsesrente i henhold til den enhver tid gjeldende reguleringer, det kan også pålegges et purregebyr i henhold til de enhver tid gjeldende reguleringer.
+## Fakturering og betalingsbetingelser
 
-### 3. 3. Salgspant/Forbehold om eiendomsrett
+Vederlag forfaller etter faktura per 10 (ti) kalenderdager.
 
-Bjerk AS beholder eiendomsretten til tjenestene / varene, inntil kjøpesummen i sin helhet er betalt, med tillegg av evt. renter og omkostninger, iht. lov om salgspant.
+Dersom vederlaget ikke betales eller holdes tilbake av betalingsformidler eller
+av andre grunner ikke innbetales korrekt til Leverandøren, er bestillingen
+likefullt bindende for Kunde. Korrekt betaling skal i disse tilfeller skje
+umiddelbart.
 
-## 4. Informasjon
+Leverandøren og Leverandørens samarbeidspartnere kan fakturere ekstra for
+eventuelle møter med Kunden, og for ekstraordinært arbeid som Kunden ønsker
+utført og som ikke er inkludert i Avtalen. Likeledes kan det faktureres ekstra
+for ekstraordinære omkostninger. Eventuell ekstra fakturering skal opplyses
+Kunden på forhånd.
 
-### 4. 1. Behandling
+Ved forsinket betaling beregnes forsinkelsesrente i henhold til lov 17. desember
+1976 nr. 100 om renter ved forsinket betaling m.m. (forsinkelsesrenteloven). Det
+kan også pålegges et purregebyr i henhold til de enhver tid gjeldende
+reguleringer
 
-I den grad det er nødvendig for oppfyllelse av oppdraget samtykker kunden til at frivillig avgitte personopplysninger, herunder også sensitive personopplysninger, behandles av Bjerk AS i samsvar med personopplysningsloven. Opplysningene vil kun bli meddelt andre parter, som motparter, domstol og offentlige organer, i den grad dette er i samsvar med oppfyllelsen av oppdraget.
-Kunden har rett til innsyn i og informasjon om de behandlede opplysninger, samt adgang til å kreve retting av mangelfulle opplysninger. Behandlingsansvarlig etter personopplysningsloven er Bjerks styre og ved spørsmål om vår behandling av personopplysninger kan styrets leder kontaktes. Se også om behandling av personopplysninger i Bjerks personvernerklæring.
+## Betalingsmislighold
 
-### 4. 2. Deling av informasjon
+Dersom forfalt uomtvistet vederlag med tillegg av forsinkelsesrenter ikke er
+betalt innen 30 (tretti) kalenderdager fra forfall, kan Leverandøren sende
+skriftlig varsel til Kunden om at Avtalen vil bli hevet dersom oppgjør ikke er
+skjedd innen 60 (seksti) kalenderdager etter at varselet er mottatt.
 
-Med mindre noe annet er avtalt, har Bjerks ansatte adgang til å dele opplysningene med andre medarbeidere i firmaet så langt det er nødvendig. Bjerks øvrige medarbeidere er underlagt den samme taushets- og fortrolighetsplikt som beskrevet i denne avtalen.
+## Kredittsjekk
 
-### 4. 3. Overlevering av produsert innhold og brukerdata
+Alle kunder kan bli kredittsjekket. Leverandøren forbeholder seg retten til å gi
+avslag på søknad om kreditt uten nærmere begrunnelse. Ved kredittsalg gis det 10
+dagers kreditt, om ikke annet er regulert i egen avtale. I tilfeller hvor
+kontraktens verdi overstiger kr 50 000 og Avtalen innebærer innkjøp på
+Leverandørens side, må hele vederlaget forhåndsbetales.
 
-Innloggingsdata, herunder brukernavn og passord, samt alt innhold produsert av Bjerk AS overleveres Kunden tidligst når kjøpesummen i sin helhet er betalt, med tillegg av evt. renter og omkostninger.
+## Avbestilling
 
-### 4. 4. Bruk i referanse
+Kunden kan avbestille Leveransen, helt eller delvis, i den grad det er avtalt.
+Kunden skal i så tilfelle betale for den del av Leveransen som er levert, samt
+Leverandørens kostnader og tap knyttet til avbestillingen.
 
-Bjerk AS har rett til å bruke alt som innbefattes i ordren i referansesammenheng. Dette innbefatter blant annet, men ikke begrenset til, opplyse om at Bjerk AS har et kundeforhold med aktuell Kunde, bruk av Kunden sin logo, presentasjon av arbeidet som er lagt ned og lignende.
+## Tredjemann
 
-## 5. Ansvar og fortolkning
+Verken Leverandøren, Leverandørens ansatte eller Leverandørens
+samarbeidspartnere kan gi bindende forsikringer om at Kunden sine kontoer,
+profiler, nettsider og lignende vil og/eller kan a) bli opprettet eller
+opplastet til tredjemanns systemer (for eksempel Facebook); b) bli godkjent
+eller publisert av tredjemann (for eksempel Facebook); c) ikke bli fjernet
+og/eller slettet av tredjemann (for eksempel Facebook) etter opprettelse og
+publisering.
 
-### 5. 1. Tolkning av avtalen
+En Leveranse kan ikke kanselleres eller refunderes, selv om et eller flere av
+produktene eller tjenestene levert av Leverandøren ikke blir godkjent opprettet,
+opplastet, publisert, fjernet/slettet eller lignende av tredjemann (for eksempel
+Facebook) og dette ikke skyldes forhold på Leverandørens side. Under enhver
+omstendighet kan ikke Leverandøren, Leverandørens ansatte eller Leverandørens
+samarbeidspartnere holdes ansvarlig dersom innhold, informasjon og lignende fra
+Kunden strider mot tredjemanns rettigheter.
 
-Hvis en del av denne avtalen blir kjent ugyldig eller ugjennomførlig i henhold til gjeldende lovgivning, skal den ugyldige eller ugjennomførlige bestemmelsen anses for å være erstattet av en gyldig, gjennomførlig bestemmelse som i størst mulig grad tilsvarer hensikten med den opprinnelige bestemmelsen, og resten av avtalen vil fortsette å gjelde.
-Punktoverskriftene i avtalen brukes utelukkende av bekvemmelighetshensyn for partene og har ingen rettslig eller kontraktsmessig betydning.
+## Reklamasjon
 
-### 5. 2. Overdragelse
+Reklamasjoner må fremmes innen forfall på mottatt faktura gjeldende den aktuelle
+tjeneste og produkt det reklameres på. Reklamasjoner etter dette tidspunkt skal
+anses som for sent fremsatt og bortfaller.
 
-Bjerk AS kan overdra denne avtalen, helt eller delvis, når som helst, med eller uten varsel til Kunden. Kunden har ikke rett til å overdra denne avtalen uten skriftlig samtykke fra Bjerk AS.
+## Fullmakt
 
-### 5. 3. Tap av data
+Kunden gir Leverandøren ubegrenset fullmakt til, til enhver tid, å aksessere
+alle profiler, kontoer, sider og lignende som er nødvendig for det arbeid
+Leverandøren skal utføre, utfører, eller har utført. Herunder kan Leverandøren ,
+til enhver tid, ha registrert sin egen, eller samarbeidspartnere, sine
+administrasjonsaksesser på Kunden sine profiler, kontoer, sider og lignende.
+Kunden gir Leverandøren ubegrenset fullmakt til å opprette, oppdatere, endre og
+slette alle profiler, kontoer, sider og lignende som er bestilt av kunden.
 
-Bjerk AS er ikke i noe tilfelle ansvarlig for tap av lagret informasjon.
+## Salgspant/Forbehold om eiendomsrett
 
-### 5. 4. Ansvar og erstatningsplikt
+Leverandøren beholder eiendomsretten til Leveransen, inntil vederlaget i sin
+helhet er betalt, med tillegg av evt. renter og omkostninger, ihht. lov om pant.
 
-Kunde plikter å holde Bjerk AS, Bjerk AS' ansatte og Bjerk AS’ samarbeidspartnere skadesløse, også overfor tredjemann, for enhver skade og et hvert tap i forbindelse med utførelsen av tjenester, og / eller som oppstår ved at tjenestene ikke kan utføres.
-Bjerk AS har intet ansvar for økonomisk tap som påføres Kunden så som uteblitt gevinst, forventet besparelse, tap av inntekt, tap av omdømme, eller tap som følge av endringer i lov eller som følge av avgjørelser truffet av tredjeparter, forvaltningsorganer eller domstol, tvangsmulkt, skade på annen eiendom forårsaket av tjenestens / produktets egenskaper eller andre indirekte skader, selv om Bjerk AS blir gjort oppmerksom på muligheten av at sådan skade kan oppstå.
-Kundens eventuelle krav på fradrag på kjøpesummen og Bjerk AS ansvar for skade etter denne avtalen er begrenset til NOK 10.000.
+## Tolkning av de alminnelige betingelsene
 
-## 6. Lovvalg og forutsetninger
+Hvis en del av disse generelle avtalevilkårene blir kjent ugyldig eller
+ugjennomførlig i henhold til gjeldende lovgivning, skal den ugyldige eller
+ugjennomførlige bestemmelsen anses for å være erstattet av en gyldig,
+gjennomførlig bestemmelse som i størst mulig grad tilsvarer hensikten med den
+opprinnelige bestemmelsen, og resten av avtalevilkårene vil fortsette å gjelde.
 
-### 6. 1. Taushetsplikt
+Punktoverskriftene i disse generelle avtalevilkårene brukes utelukkende av
+bekvemmelighetshensyn og har ingen rettslig eller kontraktsmessig betydning.
 
-Bjerk AS har taushetsplikt om alle forhold hos Kunde av konfidensiell eller sensitiv natur. Taushetsplikten gjelder ansatte og andre som opptrer på Bjerk AS' vegne i forbindelse med gjennomføring av avtalen. Taushetsplikten gjelder under oppdragets gjennomføring og etter at oppdraget er fullført. Taushetsplikten gjelder ikke der Bjerk AS er pålagt å gi opplysninger ved lov eller ved gyldig vedtak fra offentlig myndighet.
+## Bruk i referansesammenheng
 
-### 6. 2. Unntaksbestemmelser
+Leverandøren har rett til å bruke alt som innbefattes i Leveransen i
+referansesammenheng. Dette innbefatter blant annet, men ikke begrenset til, å
+opplyse om at Leverandøren har et kundeforhold med Kunden, bruk av Kunden sin
+logo, presentasjon av arbeidet som er lagt ned og lignende.
 
-Bjerk AS svarer ikke for følger som skyldes offentlige bestemmelser, streik, lockout, krig eller andre omstendigheter utenfor Bjerk AS' kontroll.
+## Overdragelse av rettigheter og plikter
 
-### 6. 3. Trykkfeil
+Leverandøren kan overdra Avtalen/Leveransen, helt eller delvis, når som helst,
+med eller uten varsel til Kunden. Kunden har ikke rett til å overdra
+Avtalen/Leveransen uten etter skriftlig samtykke fra Leverandøren.
 
-Bjerk AS' reserverer seg for eventuelle trykkfeil på nettsider, brosjyrer og i annet materiell.
+## Tap av data
 
-### 6. 4. Lovvalg og jurisdiksjon
+Leverandøren er ikke i noe tilfelle ansvarlig for tap av data/lagret
+informasjon.
 
-Enhver konflikt mellom Kunde og Bjerk AS i forbindelse med produkter og tjenester som er omfattet av nærværende avtalevilkår reguleres av norsk rett. Partene vedtar Oslo, Norge, som verneting. Dette valg av verneting skal imidlertid ikke hindre Bjerk AS fra å forfølge sine eier- og immaterielle rettigheter (herunder men ikke begrenset til å søke midlertidig forføyning) i andre jurisdiksjoner og i henhold til de prosedyrer og regler som gjelder på slikt sted.
+## Ansvar og erstatningsplikt
+
+Kunden plikter å holde Leverandøren , Leverandørens ansatte og Leverandørens
+samarbeidspartnere skadesløse, også overfor tredjemann, for enhver skade og et
+hvert tap i forbindelse med at Leveransen ikke kan leveres som avtalt.
+
+Leverandøren har intet ansvar for økonomisk tap som påføres Kunden, så som, men
+ikke begrenset til, uteblitt gevinst, forventet besparelse, tap av
+inntekt/fortjeneste, tap av omdømme, krav fra tredjeparter, herunder krav fra
+tredjepartsleverandør som følge av Kundens brudd på tredjepartsvilkår eller tap
+som følge av endringer i lov eller som følge av avgjørelser truffet av
+tredjeparter, forvaltningsorganer eller domstol, tvangsmulkt, skade på annen
+eiendom forårsaket av tjenestens / produktet og/eller tjenestens/produktets
+egenskaper eller andre indirekte skader, selv om Leverandøren blir gjort
+oppmerksom på muligheter av at sådan skade kan oppstå.
+
+Kundens eventuelle krav på vederlagsjustering og Leverandøren sitt ansvar for
+skade er i alle tilfelle begrenset til sammenlagt 50 % av vederlaget som Kunden
+er fakturert de siste 12 månedene før reklamasjonsdato, så fremt Leverandøren
+ikke har gjort seg skyldig i grov uaktsomhet eller forsett.
+
+## Næringskjøp
+
+Kunden er kjent med at alle tjenester levert av Leverandøren er å anse som
+næringskjøp og at særlige bestemmelser for forbrukerkjøp således ikke kommer til
+anvendelse.
+
+## Taushetsplikt
+
+Taushetsbelagt informasjon som partene blir kjent med i forbindelse med
+Leveransen og gjennomføringen av Leveransen, skal behandles konfidensielt og
+ikke gjøres tilgjengelig for utenforstående uten samtykke fra den annen part.
+
+Taushetsplikt etter denne bestemmelsen er ikke til hinder for utlevering av
+informasjon som kreves fremlagt i henhold til lov eller forskrift. Om mulig skal
+den annen part varsles før slik informasjon gis. Taushetsplikten er ikke til
+hinder for at opplysningene brukes når ingen berettiget interesse tilsier at de
+holdes hemmelig, for eksempel når de er allment kjent eller er alminnelig
+tilgjengelig andre steder. Partene skal ta nødvendige forholdsregler for å sikre
+at uvedkommende ikke får innsyn i eller kan bli kjent med taushetsbelagt
+informasjon.
+
+Taushetsplikten gjelder partenes ansatte, underleverandører og tredjeparter som
+handler på partenes vegne i forbindelse med gjennomføring av Avtalen.
+
+Taushetsplikten er ikke til hinder for at partene kan utnytte erfaring og
+kompetanse som opparbeides i forbindelse med gjennomføringen av Avtalen.
+
+Taushetsplikten gjelder også etter at Avtalen er opphørt. Ansatte eller andre
+som fratrer sin tjeneste hos en av partene, skal pålegges taushetsplikt også
+etter fratredelsen om forhold som nevnt ovenfor. Taushetsplikten opphører 5
+(fem) år etter Avtalens opphør, med mindre annet følger av lov eller forskrift.
+
+## Force Majeure
+
+Skulle det inntreffe en ekstraordinær situasjon, som gjør det umulig å oppfylle
+plikter etter Avtalen, og som etter norsk rett må regnes som force majeure, så
+som, men ikke begrenset til streik, lockout, krig eller andre omstendigheter
+utenfor enn parts kontroll, skal motparten varsles om dette så raskt som mulig.
+Den rammede parts forpliktelser suspenderes så lenge den ekstraordinære
+situasjonen varer. Den annen parts motytelse suspenderes i samme tidsrom.
+
+Motparten kan i force majeure-situasjoner bare avslutte Avtalen med den rammede
+parts samtykke, eller hvis situasjonen varer eller antas å ville vare lenger enn
+60 (seksti) kalenderdager, regnet fra det tidspunkt situasjonen inntrer, og da
+bare med 14 (fjorten) kalenderdagers varsel. Hver av partene dekker egne
+kostnader knyttet til avslutning av avtaleforholdet. Kunden betaler avtalt pris
+for den del av Leveransen som var kontraktsmessig levert før Avtalen ble
+avsluttet. Partene kan ikke rette andre krav mot hverandre som følge av
+avslutning av Avtalen etter denne bestemmelsen.
+
+I forbindelse med force majeure-situasjoner har partene gjensidig
+informasjonsplikt overfor hverandre om alle forhold som må antas å være av
+betydning for den annen part. Slik informasjon skal gis så raskt som mulig.
+
+## Lovvalg og jurisdiksjon
+
+Enhver konflikt mellom Kunden og Leverandøren i forbindelse med Leveransen og
+som er omfattet av nærværende avtalevilkår reguleres av norsk rett.
+
+Partene vedtar Oslo tingrett, Norge, som verneting. Dette valg av verneting skal
+imidlertid ikke hindre Leverandøren fra å forfølge sine eier- og immaterielle
+rettigheter (herunder men ikke begrenset til å søke midlertidig forføyning) i
+andre jurisdiksjoner og i henhold til de prosedyrer og regler som gjelder på
+slikt sted.
