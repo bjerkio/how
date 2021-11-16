@@ -140,7 +140,7 @@ anses som for sent fremsatt og bortfaller.
 
 Kunden gir Leverandøren ubegrenset fullmakt til, til enhver tid, å aksessere
 alle profiler, kontoer, sider og lignende som er nødvendig for det arbeid
-Leverandøren skal utføre, utfører, eller har utført. Herunder kan Leverandøren ,
+Leverandøren skal utføre, utfører, eller har utført. Herunder kan Leverandøren,
 til enhver tid, ha registrert sin egen, eller samarbeidspartnere, sine
 administrasjonsaksesser på Kunden sine profiler, kontoer, sider og lignende.
 Kunden gir Leverandøren ubegrenset fullmakt til å opprette, oppdatere, endre og
@@ -182,7 +182,7 @@ informasjon.
 
 ## Ansvar og erstatningsplikt
 
-Kunden plikter å holde Leverandøren , Leverandørens ansatte og Leverandørens
+Kunden plikter å holde Leverandøren, Leverandørens ansatte og Leverandørens
 samarbeidspartnere skadesløse, også overfor tredjemann, for enhver skade og et
 hvert tap i forbindelse med at Leveransen ikke kan leveres som avtalt.
 
