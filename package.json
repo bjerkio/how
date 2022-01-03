@@ -1,0 +1,9 @@
+{
+  "name": "@bjerk/policies",
+  "repository": "github:bjerkio/policies",
+  "prettier": "@cobraz/prettier",
+  "dependencies": {
+    "@cobraz/prettier": "^2.0.0",
+    "prettier": "^2.5.1"
+  }
+}
