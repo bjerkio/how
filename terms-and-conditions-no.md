@@ -13,16 +13,6 @@ Med Bjerk AS menes Bjerk AS med organisasjonsnummer 998 732 867 registrert
 Brønnøysundregistrene. Med «Kunden» menes den person eller instans som bestiller
 en tjeneste eller et produkt fra Leverandøren.
 
-## Informasjon om Leveransen
-
-Kunden skal gis tilgang til dokumentasjon som Leverandøren vanligvis lar følge
-med ved Leveransen.
-
-Leverandøren tar forbehold om (i) at det kan forekomme trykkfeil på nettsiden, i
-kataloger eller i annet markedsføringsmateriale, (ii) at tjenester/produkter
-ikke er tilgjengelige og (iii) at bilder ikke overensstemmer med
-tjenestenes/produktenes virkelige utseende.
-
 ## Elektronisk post
 
 Kunden godtar at opplysninger og dokumenter, herunder alle fakturaer, purringer
@@ -101,10 +91,7 @@ skjedd innen 60 (seksti) kalenderdager etter at varselet er mottatt.
 ## Kredittsjekk
 
 Alle kunder kan bli kredittsjekket. Leverandøren forbeholder seg retten til å gi
-avslag på søknad om kreditt uten nærmere begrunnelse. Ved kredittsalg gis det 10
-dagers kreditt, om ikke annet er regulert i egen avtale. I tilfeller hvor
-kontraktens verdi overstiger kr 50 000 og Avtalen innebærer innkjøp på
-Leverandørens side, må hele vederlaget forhåndsbetales.
+avslag på kreditt uten nærmere begrunnelse.
 
 ## Avbestilling
 
