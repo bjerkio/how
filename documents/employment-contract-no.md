@@ -13,12 +13,8 @@ verv.
 
 ## Plikter
 
-Under sitt arbeid skal arbeidstakeren sørge for at den virksomhet arbeidstakeren
-har ansvaret for og/eller selv utøver, drives i henhold til lover, forskrifter
-og etter god forretningsskikk. Arbeidstakeren skal særlig iaktta det forhold at
-Bjerk må opptre upartisk og uavhengig i markedet. Arbeidstaker må i alt sitt
-arbeid og i all sin fremferd sørge for at det ikke oppstår grunnlag for tvil om
-Bjerk AS' uavhengige og objektive stilling og dets absolutte pålitelighet.
+Arbeidstaker plikter å gjennomføre pålagt arbeid innenfor gjeldende lover,
+offentlige vedtak og gyldige avtaler.
 
 For øvrig plikter arbeidstakeren å følge gjeldende sikkerhetsprosedyrer og
 personalhåndbøker.
