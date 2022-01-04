@@ -106,7 +106,7 @@ etter lov eller annen regulering er forpliktet til dette.
 ## Prøvetid og oppsigelse
 
 For stillingen gjelder seks måneders prøvetid med gjensidig oppsigelsesfrist på
-to uker. Etter prøvetid følger oppsigelsetid etter arbeidsmiljøloven.
+to uker. Etter prøvetiden er gjensidig oppsigelsestid tre måneder, regnet fra den første i neste måned etter at oppsigelsen fant sted.
 
 Ved fratredelse skal arbeidstaker tilbakelevere alle eiendeler som tilhører
 Bjerk.
