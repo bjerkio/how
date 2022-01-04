@@ -3,9 +3,9 @@
 ## Arbeidsområde
 
 Arbeidets art er beskrevet i den ansattes rollebeskrivelse. Arbeidet skal utøves
-i samsvar med gjeldende formål og den til enhver tid vedtatt strategi for,
+i samsvar med gjeldende formål og den til enhver tid vedtatt strategi,
 innenfor rammen av de instrukser og anvisninger Bjerk AS' ledelse gir. Bjerk gir
-og forventer en betydlig grad av selvstendighet og initiativ innenfor rammeene
+og forventer en betydlig grad av selvstendighet og initiativ innenfor rammene
 av rollebeskrivelsen.
 
 Arbeidstakeren kan ikke uten skriftlig godkjennelse ha annet lønnet arbeid eller
