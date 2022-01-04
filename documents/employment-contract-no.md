@@ -27,10 +27,7 @@ tilstedeværelse i Bjerks lokaler.
 ## Arbeidstid
 
 Normal arbeidstid er 40 timer per uke, inkl. 1⁄2 time lunsj pr. dag, med
-kjernetid fra 09.00 til 15.00. Arbeid utover normal arbeidstid kan i enkelte
-tilfeller forekomme om oppgavene ikke kan utføres tilfredsstillende innen normal
-arbeidstid. Overtidsreglene gjelder ikke for stillinger utenfor
-Arbeidsmiljølovens. § 10-12 om arbeidstid.
+kjernetid fra 09.00 til 15.00. 
 
 Arbeidstaker plikter å gjennomføre pålagt arbeid innenfor gjeldende lover,
 offentlige vedtak og gyldige avtaler.
