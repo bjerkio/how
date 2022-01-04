@@ -43,14 +43,11 @@ Om ikke annet er avtalt, regnes alle stillinger i Bjerk som særlig uavhengig
 stillinger og er således unntatt Arbeidsmiljølovens. § 10-12 om arbeidstid.
 Dette begrunnes i at metoden Bjerk arbeider på innebærer en tydelig og åpenbar
 «selvstendighet» eller «uavhengighet» i hvordan og til hvilken tid
-arbeidsoppgaver organiseres og gjennomføres.
-
-Ansatte i Bjerk styrer sine egne arbeidsoppgaver; kundenes krav og omgivelser
-har styrer selvsagt dette noe.
+arbeidsoppgaver organiseres og gjennomføres, og at ansatte i Bjerk styrer sine egne arbeidsoppgaver; selv om kundenes krav og omgivelsene har påvirkning.
 
 ## Lønn
 
-Lønnen utbetales den 15. i hver måned i 11 måneden. I juni utbetales
+Lønnen utbetales den 15. i hver måned i 11 måneder. I juni utbetales
 feriepenger. Lønn og andre vilkår skal være gjenstand for vurdering etter 3
 måneder i stillingen. Tid utover normal arbeidstid kompenseres ikke, verken i
 form av avspasering eller penger.
@@ -67,7 +64,7 @@ Ferie og feriegodtgjørelse reguleres etter bestemmelsene i ferieloven (29. apri
 tillater dette. Ferieplaner skal koordineres mellom de ansatte, slik at alle
 nødvendige funksjoner til enhver tid er dekket.
 
-Årlig ferie utgjør som hovedregel 20 virkedager hvert ferieår.
+Årlig ferie utgjør som hovedregel 25 virkedager hvert ferieår.
 
 Bjerk holder stengt i fellesferier. Det vil si:
 
