@@ -91,15 +91,14 @@ ledelse.
 ## Lojalitets- og taushetsplikt
 
 Arbeidstakeren skal ikke i løpet av ansettelsestiden, på egen hånd eller sammen
-med andre, drive/bidra til noen form aktivitet som kan oppfattes som
+med andre, drive/bidra til aktivitet som kan oppfattes som
 konkurrerende virksomhet. Arbeidstakeren forplikter seg til ikke å utøve slik
 aktivitet i inntil 6 måneder etter fratredelse dersom Bjerk aktiverer klausulen
 og betaler Arbeidstakeren 100 % lønn i karenstiden.
 
 Arbeidstakeren har så vel under som etter ansettelsesperioden taushetsplikt
 overfor alle utenforstående vedrørende Bjerk AS' teknologi, forretningsdrift og
-planer, og enhver annen opplysning som er viktig for Bjerk å beskytte i forhold
-til utenforstående. Denne bestemmelsen hindrer ikke Arbeidstakeren å gi
+planer, og enhver annen opplysning som er viktig for Bjerk å beskytte fra utenforstående. Denne bestemmelsen hindrer ikke Arbeidstakeren å gi
 opplysninger til offentlige myndigheter og domstoler, dersom arbeidstakeren
 etter lov eller annen regulering er forpliktet til dette.
 
@@ -109,7 +108,7 @@ For stillingen gjelder seks måneders prøvetid med gjensidig oppsigelsesfrist p
 to uker. Etter prøvetiden er gjensidig oppsigelsestid tre måneder, regnet fra den første i neste måned etter at oppsigelsen fant sted.
 
 Ved fratredelse skal arbeidstaker tilbakelevere alle eiendeler som tilhører
-Bjerk.
+Bjerk, inkludert digitale nøkler og autorisasjoner som arbeidstaker har fått tildelt av Bjerk eller oppdragsgivere for å kunne utføre Bjerks prosjekter.
 
 ## Attest
 
