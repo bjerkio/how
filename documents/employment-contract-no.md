@@ -9,7 +9,7 @@ og forventer en betydlig grad av selvstendighet og initiativ innenfor rammene
 av rollebeskrivelsen.
 
 Arbeidstakeren kan ikke uten skriftlig godkjennelse ha annet lønnet arbeid eller
-verv.
+lønnede verv.
 
 ## Plikter
 
