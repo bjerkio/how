@@ -8,8 +8,8 @@ innenfor rammen av de instrukser og anvisninger Bjerk AS' ledelse gir. Bjerk gir
 og forventer en betydlig grad av selvstendighet og initiativ innenfor rammene
 av rollebeskrivelsen.
 
-Arbeidstakeren kan ikke uten skriftlig godkjennelse ha annet lønnet arbeid eller
-lønnede verv.
+Arbeidstakeren kan ikke uten skriftlig godkjennelse ha verv eller annet lønnet 
+arbeid.
 
 ## Plikter
 
