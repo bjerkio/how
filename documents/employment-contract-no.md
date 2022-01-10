@@ -108,7 +108,7 @@ For stillingen gjelder seks måneders prøvetid med gjensidig oppsigelsesfrist p
 to uker. Etter prøvetiden er gjensidig oppsigelsestid tre måneder, regnet fra den første i neste måned etter at oppsigelsen fant sted.
 
 Ved fratredelse skal arbeidstaker tilbakelevere alle eiendeler som tilhører
-Bjerk, inkludert digitale nøkler og autorisasjoner som arbeidstaker har fått tildelt av Bjerk eller oppdragsgivere for å kunne utføre Bjerks prosjekter.
+Bjerk, inkludert digitale nøkler og autorisasjoner som arbeidstaker har fått tildelt på bakgrunn av sin rolle som ansatt i Bjerk.
 
 ## Attest
 
