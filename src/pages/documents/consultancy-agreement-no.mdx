@@ -1,0 +1,84 @@
+import KeyContent from '../../components/key-content';
+import SignatureField from '../../components/signature-field';
+import { Logo } from '../../components/logo';
+import { Text, Box } from 'theme-ui';
+
+<Box sx={{ textAlign: 'right', my: 3, fontSize: 1 }}>
+  <Logo sx={{ height: '30px', width: 'auto' }} />
+  <Box>
+    Myntgata 2<br />
+    0151 Oslo
+  </Box>
+</Box>
+
+<Box sx={{ my: 6 }}>
+  <Box>{props.customerName}</Box>
+  <Box>{props.customerAddress}</Box>
+
+  <Box sx={{ textAlign: 'right' }}>Oslo, 30. nov. 2021</Box>
+</Box>
+
+# Oppdragsbekreftelse og Avtale om leveranse av konsulenttjenester
+
+## 1. Innledning
+
+Med dette bekreftes at Bjerk AS (Bjerk) har påtatt seg et konsulentoppdrag. For
+oppdraget gjelder våre generelle avtalevilkår, med de unntak eller presiseringer
+som fremgår nedenfor. Avtalevilkårene ligger på bjerk.io/terms/.
+
+## 2. Sentrale opplysninger
+
+<KeyContent title="Oppdragets navn" value={props.agreementName} />
+<KeyContent title="Oppdragets ref. nr. hos Bjerk" value={props.referenceId} />
+<KeyContent title="Kundens navn" value={props.customerName} />
+<KeyContent title="Kundens adresse" value={props.customerAddress} />
+<KeyContent title="Faktureringsadresse" value={props.customerInvoiceAddress} />
+<KeyContent title="Kundens kontaktperson" value={props.customerContact} />
+<KeyContent title="Bjerks kontaktperson" value={props.ourContact} />
+<KeyContent title="Oppdraget gjelder" value={props.description} />
+<KeyContent title="Honorar" value={props.hourlyRate} />
+
+_Oppdraget vil bli fakturert med utgangspunkt i angitte veiledende timepris(er)
+(eks. mva)_
+
+<KeyContent title="Oppstartsdato" value={props.startDate} />
+<KeyContent title="Oppdragets omfang" value={props.scope} />
+<KeyContent title="Løpetid - Oppsigelse" value={props.duration} />
+
+Oppdraget faktureres månedlig etterskuddsvis om ikke annet er skriftlig avtalt.
+Med mindre annet er avtalt, vil denne oppdragsbekreftelsen også gjelde ved
+gjentatte oppdrag. Oppdraget kan utføres av Bjerks ansatte, engasjerte
+konsulenter eller underleverandører.
+
+Timer faktureres per påbegynte klokketime.
+
+## 3. Mål
+
+Bjerks overordnede mål for oppdraget er ved innsatsforpliktelse å tilby
+produktive og konstruktive prosjekt(er) og kompetanse innen teknisk arkitektur,
+utviklingsprosesser, opplæring og implementering, samt generell teknisk
+kompetanse, inkludert programmering etter instruks fra kunden. Bjerk har ikke
+resultatansvar for utførte tjenester.
+
+## 4. Utgifter/omkostninger
+
+I forbindelse med oppdraget kan det påløpe utgifter/omkostninger utover
+timehonorar, herunder men ikke begrenset til offentlige avgifter og gebyrer, som
+kunden vil være ansvarlig for.
+
+Skulle det bli aktuelt å pådra utgifter/omkostninger utover timehonorar og
+offentlige gebyrer som ikke er nevnt her og som overstiger kr 5 000, vil Bjerk
+om mulig avklare dette med kunden før kostnaden pådras, dersom ikke annet er
+avtalt.
+
+Kunden er i alle tilfelle ansvarlig for eventuelle reise-, kost- og
+losjikostnader som er nødvendig i forbindelse med gjennomføring av oppdraget.
+
+## Aksept
+
+Jeg/vi bekrefter at jeg/vi har lest og forstått innholdet i denne
+«Oppdragsbekreftelse – Avtale om leveranse av konsulenttjenester» og de
+tilhørende «Alminnelige betingelser for Bjerk AS», og at Bjerk AS er autorisert
+til å utføre oppdrag i samsvar med de fastsatte vilkår.
+
+<SignatureField />
