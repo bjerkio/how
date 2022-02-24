@@ -9,8 +9,8 @@ selskapet.
 
 Som programvareutvikler hos Bjerk er følgende dine ansvarsområder:
 
-- Utvikle programvare
-- Bidra til utvikling av programvare
+- Utvikling av programvare
+- Gi tilbakemelding, foreslå forbedringer og hjelpe andre med utvikling av programvare
 - Planlegging, tilrettelegging og prosjektledelse av tekniske prosjekter
 
 Som programvareutvikler blir du vurdert etter evnen til å bidra på dine
