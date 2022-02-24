@@ -9,42 +9,16 @@ selskapet.
 
 Som programvareutvikler hos Bjerk er følgende dine ansvarsområder:
 
-- Bombepunkt
-- Bombepunkt
-- Bombepunkt
-- Bombepunkt
-- Bombepunkt
+- Utvikle programvare
+- Bidra til utvikling av programvare
+- Planlegging, tilrettelegging og prosjektledelse av tekniske prosjekter
 
 Som programvareutvikler blir du vurdert etter evnen til å bidra på dine
-ansvarsområder og etterlevelse av våre felles leveregler. Generelt forventer vi
-en oppriktig interesse i å se din rolle og kompetanse inn i en større sammenheng
-og bidra aktivt til egne og andres løsninger på tvers av selskapet. Vi forventer
-gode prosessferdigheter, det vil si evne til å beskrive, tilrettelegge og
-gjennomføre prosesser med hensiktsmessighet og faglig troverdighet.
-
-## Vårt mål for utvikling
-
-Noe om hva og hvordan.
-
-## Våre leveregler
-
-Dette er levereglene vi jobber etter hver dag:
-
-- **Vær nysgjerrig** \
-  Jakt på innsikt og spør «hvorfor». Gjør deg selv i stand til å forstå problemet
-  som skal løses og menneskene.
-- **Bruk tiden din smart** \
-  Spør deg selv hvilke oppgaver du bør prioritere, hvordan du skal løse dem smart,
-  for å lykkes. Sparr med de rundt deg.
-- **Verdsett de rundt deg** \
-  La kollegaer og oppdragsgivere få vite når de er flinke, støtt hverandre og skap
-  en feiringskultur.
-- **Vær ærlig med kjærlighet** \
-  Gi konkrete og ærlige tilbakemeldinger med de beste intensjoner.
-- **Spill hverandre gode** \
-  Gjør det du kan for at de rundt deg lykkes.
-- **Vær åpen** \
-  Dytt informasjon ut, ikke vent på at andre spør deg.
+ansvarsområder. Generelt forventer vi en oppriktig interesse i å se din rolle og
+kompetanse inn i en større sammenheng og bidra aktivt til egne og andres løsninger
+på tvers av selskapet. Vi forventer gode prosessferdigheter, det vil si evne til å
+beskrive, tilrettelegge og gjennomføre prosesser med hensiktsmessighet og faglig
+troverdighet.
 
 ## Vårt «hvorfor»
 
