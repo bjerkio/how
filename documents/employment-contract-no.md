@@ -71,13 +71,14 @@ Ferie skal kun kunne tas ut når Arbeidsgivers virksomhet tillater dette.
 Ferieplaner skal koordineres mellom de ansatte, slik at alle nødvendige
 funksjoner til enhver tid er dekket.
 
-Årlig ferie utgjør 25 virkedager hvert ferieår.
+Årlig ferie utgjør 25 virkedager hvert ferieår, eller fire uker (lørdag medregnet som virkedag) pluss én dag. 
+Siden Bjerk ikke har virkedag på lørdager regner vi dette som 21 feriedager (5 ⋅ 4 + 1).
 
 Bjerk holder stengt i fellesferier, det vil si:
 
-- Sommerferie (15 feriedager)
+- Sommerferie i juli (tre uker eller 15 feriedager)
 - Påskeferie (3 feriedager)
-- Juleferie (2-5 feriedager)
+- Juleferie (3 feriedager)
 
 Feriedager må tas ut i forbindelse med disse tidsrommene.
 
