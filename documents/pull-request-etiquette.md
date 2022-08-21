@@ -18,11 +18,8 @@ The main objective of this document is to guide us in keeping pull requests fun 
 
 ## Creating pull requests
 
-You are responsible for ensuring you get reviews for your PRs and merge them. It would be best if you
-did not rely on someone else noticing, reviewing, and merging your PR.
+You are responsible for ensuring you get reviews for your PRs and merge them. You cannot rely on someone else noticing, reviewing, and merging your PR.
 
-You do not need to merge all changes for a piece of work in a single PR. However, it would be best
-to break down the changes into several PRs to get feedback earlier.
 
 Pull requests should have a clear purpose and be the smallest possible. Pull requests with one
 line change are sweet! If you can split your changes into smaller unrelated chunks, that's helping
@@ -35,8 +32,8 @@ When opening a pull request, you should make sure:
 * the title and description of the PR are clear and accurately represent your changes
 * the title and description reference the source of the change, which could be an issue, ticket or project item
 * the description contains links to any related PRs
-* any screenshots have text descriptions for accessibility
-* any contentious changes or side effects have clear explanations of the pros and cons
+* screenshots have text descriptions for accessibility
+* contentious changes or side effects have clear explanations of the pros and cons
 
 ## Reviewing pull requests
 
@@ -60,7 +57,7 @@ When you're reviewing code, you should consider whether PRs:
 * suggest changes outside a project's scope
 * need breaking into smaller PRs
 
-You should also consider if a pull request suggested changes will contribute to technical debt and
+You should also consider if a pull request's suggested changes will contribute to technical debt and
 if you can make suggestions to help solve the existing technical debt.
 
 You should explain your reasoning when you suggest changes and refer to programming language style
@@ -71,7 +68,7 @@ You should:
 
 * only approve pull requests you fully understand
 * give appropriate positive feedback
-* flag up significant issues quickly and in person/slack if necessary
+* flag up significant issues quickly and in person/on slack if necessary
 * ask for clarification on anything that's not clear
 
 You should not:
@@ -88,4 +85,4 @@ You should consider if the code in a PR has:
 * patterns consistent with similar code elsewhere in the codebase
 * readable variable names, accurately representing their contents
 * missing or additional elements following a merge or rebase
-capacity for reusability
+* capacity for reusability
