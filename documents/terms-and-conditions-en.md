@@ -14,6 +14,7 @@ Register Centre with organisation number 998 732 867. “Customer” refers
 to the person or body that orders a service or product from the Supplier.
 
 ## Electronic mail
+
 The Customer accepts that data and documents, including all invoices, 
 reminders and notices of debt collection, in connection with business 
 matters shall be sent and stored electronically, including as e-mail.
