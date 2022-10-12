@@ -105,6 +105,7 @@ the Delivery that has been supplied, as well as the Supplier’s costs and
 loss associated with cancellation.
 
 ## Third parties
+
 Neither the Supplier, the Supplier’s employees nor the Supplier's 
 cooperative partners may provide binding assurances that the Customer’s 
 accounts, profiles, websites, etc., will and/or can (a) be established or 
