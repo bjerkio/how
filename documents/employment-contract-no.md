@@ -150,6 +150,6 @@ tildelt på bakgrunn av sin rolle som ansatt i Bjerk.
 
 ## Attest
 
-Arbeidstakeren har krav på skriftlig sluttattest ved fratrede n etter lovlig
+Arbeidstakeren har krav på skriftlig sluttattest ved fratreden etter lovlig
 oppsigelse. Attesten skal minimum inneholde opplysninger om Arbeidstakerens
 navn, fødselsdato, hva arbeidet har bestått i og arbeidsforholdets varighet.
