@@ -46,9 +46,8 @@ ferie utbetales ikke lønn, men opptjente feriepenger. Lønn og andre vilkår sk
 være gjenstand for vurdering etter 3 måneder i stillingen. Tid utover normal
 arbeidstid kompenseres ikke, verken i form av avspasering eller godtgjørelse.
 
-Bjerk dekker bruk av mobil, mobilabonnement, internettabonnement og
-treningsabonnement. Konkrete abonnementer og priser avtales med den enkelte
-ansatte.
+Bjerk dekker bruk av mobilabonnement. Konkrete abonnementer og priser avtales
+med den enkelte ansatte.
 
 ## Pensjons- og forsikringsordninger
 
