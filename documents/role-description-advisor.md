@@ -9,9 +9,9 @@ selskapet.
 
 Som rådgiver hos Bjerk er følgende dine ansvarsområder:
 
-- Skaffe utviklingsoppdrag
-- Rådgi innen digitalisering på oppdrag for kunder
+- Rådgi innen digitalisering og produktutvikling på oppdrag for kunder
 - Bygge og vedlikeholde positive relasjoner med kunder
+- Skaffe utviklingsoppdrag
 - Planlegging, tilrettelegging og prosjektledelse av tekniske prosjekter
 - Rekruttering av nye ansatte
 
