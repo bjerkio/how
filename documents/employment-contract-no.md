@@ -49,13 +49,6 @@ lunsj og den ukentlige normalarbeidstiden er 40 timer inkl. lunsj.
 
 Kjernetid er mandag til og med fredag fra kl. 09.00 til kl. 15.00.
 
-Om ikke annet er avtalt, er stillinger i Bjerk særlig uavhengige stillinger og
-derfor unntatt arbeidsmiljøloven kapittel 10 Arbeidstid. Dette begrunnes med at
-metoden Bjerk arbeider etter innebærer en tydelig, åpenbar og reell
-selvstendighet og uavhengighet til hvordan og til hvilken tid arbeidsoppgaver
-skal organiseres og gjennomføres, og at ansatte i Bjerk styrer sine egne
-arbeidsoppgaver.
-
 ## 6. Lønn og andre godtgjørelser
 
 Den Ansattes avtalte lønn ved tiltredelse er brutto kr `[lønn]` per år, basert
