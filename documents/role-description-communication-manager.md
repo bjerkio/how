@@ -1,4 +1,4 @@
-# Rollebeskrivelse for informasjonsansvarlig
+# Rollebeskrivelse for kommunikasjonsansvarlig
 
 Målet med beskrivelsen er å trekke opp noen rammebetingelser for din rolle i
 Bjerk. Samtidig som den enkeltes hovedarbeidsområde beskrives, legges det hos
@@ -18,7 +18,7 @@ Som rådgiver hos Bjerk er følgende dine ansvarsområder:
   forbedringer
 - Tilrettelegging og ledelse av kommunikasjonsprosjekter
 
-Som Informasjonsansvarlig blir du vurdert etter evnen til å bidra på dine
+Som kommunikasjonsansvarlig blir du vurdert etter evnen til å bidra på dine
 ansvarsområder. Generelt forventer vi en oppriktig interesse i å se din rolle og
 kompetanse inn i en større sammenheng og bidra aktivt til egne og andres
 løsninger på tvers av selskapet. Vi forventer gode prosessferdigheter, det vil
