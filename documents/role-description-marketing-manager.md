@@ -7,7 +7,7 @@ selskapet.
 
 ## Ansvarsområder og rolle
 
-Som rådgiver hos Bjerk er følgende dine ansvarsområder:
+Som markedsansvarlig hos Bjerk er følgende dine ansvarsområder:
 
 - Utvikle og implementere markedsstrategier som støtter selskapets mål og visjon
 - Analysere markedsdata for å identifisere trender, muligheter og trusler
