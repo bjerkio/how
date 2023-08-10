@@ -9,7 +9,7 @@ at Bjerk.
 
 All Bjerk employees are required to track their time. This includes all
 full-time employees, part-time employees, and contractors. Time tracking should
-be done continously, but must be done within 48 hours of work being done.
+be done continuously, and always done within 48 hours of the work being done.
 
 You are responsible for making sure that your time is tracked correctly.
 
@@ -32,5 +32,4 @@ you must make sure that the time is synced to Tripletex.
 ## Time tracking is not a measure of productivity
 
 Time tracking is not a measure of productivity. It is a measure of how we spend
-our time. We do not use time tracking to measure how productive we are, and we
-do not use time tracking to measure how much we work.
+our time. We do not use time tracking to measure how productive we are.
