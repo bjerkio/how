@@ -11,11 +11,6 @@ All Bjerk employees are required to track their time. This includes all
 full-time employees, part-time employees, and contractors. Time tracking should
 be done continously, but must be done within 48 hours of work being done.
 
-Its important that time tracking is done continously, as it is very difficult to
-remember what you did a week ago. If you forget to track your time, you should
-do it as soon as you remember, and you should make sure to track the time you
-spent remembering what you did.
-
 You are responsible for making sure that your time is tracked correctly.
 
 ## Internal time
