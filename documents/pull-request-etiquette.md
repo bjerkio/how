@@ -58,6 +58,34 @@ someone else's work:
 - Is it necessary?
 - Is it kind?
 
+## Avoiding nitpicking in reviews
+
+Nitpicking refers to pointing out trivial issues or minor improvements in code
+that don't significantly enhance its quality or functionality. While aiming for
+perfection is commendable, excessive nitpicking can overshadow critical
+concerns, leading to a poor signal-to-noise ratio in reviews.
+
+By reducing nitpicking:
+
+1. Critical comments are highlighted, ensuring they don't get overlooked.
+2. Developers' relationships with code reviews and their peers improve,
+   fostering a positive team environment.
+
+If there's an urge to nitpick, it's advisable to:
+
+- Question the real impact of the issue being pointed out.
+- Consider automating checks for minor code styles and patterns to ensure
+  uniformity without personal intervention.
+- Reflect on the broader goal of pull request reviews: to improve code quality
+  and team collaboration, not just to catch every small imperfection.
+- Remember, maintaining a healthy team dynamic and focusing on significant code
+  design aspects can be more beneficial than pointing out every tiny flaw.
+
+Read more about in [Dan Lew's article on stop nitpicking in code
+reviews][nitpicky].
+
+[nitpicky]: https://blog.danlew.net/2021/02/23/stop-nitpicking-in-code-reviews/
+
 ### Tasks when reviewing
 
 When you're reviewing code, you should consider whether PRs:
