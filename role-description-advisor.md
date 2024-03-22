@@ -20,8 +20,8 @@ Som rådgiver hos Bjerk er følgende dine primære ansvarsområder:
 - Lede tekninske prosjekter, inkludert planlegging og tilrettelegging
 - Definere og kommunisere en produktstrategi og visjon basert på undersøkelser,
   behovsanalyser og forretningsmål samt styre utviklingen av digitale produkter.
-- Samarbeide med tverrfaglige team, inkludert ingeniører, designere og markedsførere,
-  for å utvikle og lansere nye produkter eller forbedringer av eksisterende produkter.
+- Samarbeide med tverrfaglige team for å utvikle og lansere nye produkter eller
+  forbedringer av eksisterende produkter.
 - Rekruttering av nye ansatte.
 
 **Å være en vellykket rådgiver innebærer en blanding av teknisk dyktighet,
