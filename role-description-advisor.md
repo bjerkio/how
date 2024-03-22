@@ -11,13 +11,18 @@ selskapet.
 
 Som rådgiver hos Bjerk er følgende dine primære ansvarsområder:
 
-- Rådgi innen digitalisering og produktutvikling på oppdrag for kunder
+- Rådgi og drive med forretningsutvikling innen digitalisering og digital
+  produktutvikling, slik som blant annet definisjon av produktkrav og -spesifikasjoner.
 - Se helheten i utviklingen av digitale produkter, med et spesielt fokus på
   brukerens behov og erfaringer. 
 - Bygge og vedlikeholde positive relasjoner med kunder og samarbeidspartnere
-- Skaffe utviklingsoppdrag
-- Planlegging, tilrettelegging og prosjektledelse av tekniske prosjekter
-- Rekruttering av nye ansatte
+- Skaffe utviklingsoppdrag.
+- Lede tekninske prosjekter, inkludert planlegging og tilrettelegging
+- Definere og kommunisere en produktstrategi og visjon basert på undersøkelser,
+  behovsanalyser og forretningsmål samt styre utviklingen av digitale produkter.
+- Samarbeide med tverrfaglige team, inkludert ingeniører, designere og markedsførere,
+  for å utvikle og lansere nye produkter eller forbedringer av eksisterende produkter.
+- Rekruttering av nye ansatte.
 
 **Å være en vellykket rådgiver innebærer en blanding av teknisk dyktighet,
 salgsferdigheter og evnen til å bygge sterke relasjoner. Det krever kontinuerlig
