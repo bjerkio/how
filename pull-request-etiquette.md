@@ -6,6 +6,8 @@ team, get a second opinion, and keep everyone informed of changes.
 The main objective of this document is to guide us in keeping pull requests fun
 and productive.
 
+The pull request review cycle achieves seeks to do several things:
+
 - **Share responsibility**: With an extra pair of eyes, we share the
   responsibility for what goes live.
 
@@ -19,6 +21,8 @@ and productive.
   number of meetings or other manual ways of communicating changes or progress.
   For example, if pull requests tell a story – it expresses the changes to
   everyone. We can even tag the related people!
+  
+- **Document**: Well made and well reviewed pull requests (when squashed) leave behind an understandable and informative git history.
 
 ## Creating pull requests
 
@@ -125,3 +129,29 @@ You should consider if the code in a PR has:
 - readable variable names, accurately representing their contents
 - missing or additional elements following a merge or rebase
 - capacity for reusability
+
+## When not to make a pull request
+
+We usually prefer collaboration and having a high bus factor.
+However, we cannot achieve full horizontal distribution
+of all knowledge and skills in every context.
+
+Since a reviewer should only approve pull requests they fully understand,
+we will therefore sometimes have to forego code review.
+
+Additionally, if a change is time sensitive, very simple and/or small in scope,
+the value add of a review cycle is often not worth causing delays, interrupting flow state (for two developers),
+and adding cost.
+
+We can end up spending less time creating value if we spend too much time
+scoping up PRs, meticulously describing them and having them reviewed.
+
+### Alternatives to pull requests
+
+In many cases, an asynchronous back and forth conversation in a pull request
+ will require multiple people to stop what they're doing and switch contexts
+ multiple times during the lifetime of the pull request.
+
+It can often be more effective to hash it out in a quick huddle.
+
+Pair programming is another way to achieve many of the same benefits as pull requests.
