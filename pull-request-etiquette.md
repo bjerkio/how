@@ -137,7 +137,7 @@ However, we cannot achieve full horizontal distribution
 of all knowledge and skills in every context.
 
 Since a reviewer should only approve pull requests they fully understand,
-we will sometimes have to forego code review.
+we will therefore sometimes have to forego code review.
 
 Additionally, if a change is time sensitive, very simple and/or small in scope,
 the value add of a review cycle is often not worth causing delays, interrupting flow state (for two developers),
