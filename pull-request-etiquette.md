@@ -132,12 +132,12 @@ You should consider if the code in a PR has:
 
 ## When not to make a pull request
 
-We usually prefer collaberation and having a high bus factor.
+We usually prefer collaboration and having a high bus factor.
 However, we cannot achieve full horizontal distribution
 of all knowledge and skills in every context.
 
 Since a reviewer should only approve pull requests they fully understand,
-we will sometimes commit to siloing projects in parts or in whole, foregoing code review.
+we will sometimes have to forego code review.
 
 Additionally, if a change is time sensitive, very simple and/or small in scope,
 the value add of a review cycle is often not worth causing delays, interrupting flow state (for two developers),
