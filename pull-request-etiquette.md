@@ -6,7 +6,7 @@ team, get a second opinion, and keep everyone informed of changes.
 The main objective of this document is to guide us in keeping pull requests fun
 and productive.
 
-The pull request review cycle achieves seeks to do several things:
+The pull request review cycle achieves several things:
 
 - **Share responsibility**: With an extra pair of eyes, we share the
   responsibility for what goes live.
@@ -132,21 +132,29 @@ You should consider if the code in a PR has:
 
 ## When not to make a pull request
 
+### Solo stuff
+
 We usually prefer collaboration and having a high bus factor.
-However, we cannot achieve full horizontal distribution
+However, we cannot afford full horizontal distribution
 of all knowledge and skills in every context.
 
 Since a reviewer should only approve pull requests they fully understand,
 we will therefore sometimes have to forego code review.
 
-Additionally, if a change is time sensitive, very simple and/or small in scope,
+### Quick little things
+
+If a change is time sensitive, very simple and/or small in scope,
 the value add of a review cycle is often not worth causing delays, interrupting flow state (for two developers),
 and adding cost.
 
-We can end up spending less time creating value if we spend too much time
+We can also end up spending less time creating value if we spend too much time
 scoping up PRs, meticulously describing them and having them reviewed.
 
-### Alternatives to pull requests
+### Flow state
+
+One programmer in flow state can achieve a lot in a short time
+
+## Alternatives to pull requests
 
 In many cases, an asynchronous back and forth conversation in a pull request
  will require multiple people to stop what they're doing and switch contexts
