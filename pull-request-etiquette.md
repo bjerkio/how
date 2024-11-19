@@ -6,6 +6,8 @@ team, get a second opinion, and keep everyone informed of changes.
 The main objective of this document is to guide us in keeping pull requests fun
 and productive.
 
+The pull request review cycle achieves several things:
+
 - **Share responsibility**: With an extra pair of eyes, we share the
   responsibility for what goes live.
 
@@ -19,6 +21,8 @@ and productive.
   number of meetings or other manual ways of communicating changes or progress.
   For example, if pull requests tell a story – it expresses the changes to
   everyone. We can even tag the related people!
+  
+- **Document**: Well made and well reviewed pull requests (when squashed) leave behind an understandable and informative git history.
 
 ## Creating pull requests
 
@@ -125,3 +129,37 @@ You should consider if the code in a PR has:
 - readable variable names, accurately representing their contents
 - missing or additional elements following a merge or rebase
 - capacity for reusability
+
+## When not to review a pull request
+
+Code review is not a hard rule. We do not enforce code review as
+it does not necessarily add value if it is done out of habit.
+
+### Silo coding
+
+We usually prefer collaboration and having a high bus factor.
+However, we cannot afford full horizontal distribution
+of all knowledge and skills in every context. Some siloing is to be expected.
+
+In such cases we have to forego code review since a reviewer
+should only approve pull requests they fully understand.
+
+### Quick little things
+
+If a change is time sensitive, very simple and/or small in scope,
+the value add of a review cycle is often not worth causing delays
+and interrupting flow state (for two or more developers).
+
+We can end up spending less time creating value if we spend too much time
+authoring PRs and reviewing PRs. One small PR may not take a lot of time to review,
+but if you review 1-3 tiny PRs every hour your general productivity will stoop.
+
+## Alternatives to code review
+
+In many cases, an asynchronous back and forth conversation in a pull request
+ will require multiple people to stop what they're doing and switch contexts
+ multiple times during the lifetime of the pull request.
+
+It can often be a lot more effective to hash things out in a quick huddle.
+
+Pair programming is another way to achieve many of the same benefits as code review.
