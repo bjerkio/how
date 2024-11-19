@@ -130,7 +130,7 @@ You should consider if the code in a PR has:
 - missing or additional elements following a merge or rebase
 - capacity for reusability
 
-## When not to make a pull request
+## When not to review a pull request
 
 ### Solo stuff
 
@@ -144,11 +144,11 @@ we will therefore sometimes have to forego code review.
 ### Quick little things
 
 If a change is time sensitive, very simple and/or small in scope,
-the value add of a review cycle is often not worth causing delays, interrupting flow state (for two developers),
-and adding cost.
+the value add of a review cycle is often not worth causing delays
+and interrupting flow state (for two or more developers).
 
-We can also end up spending less time creating value if we spend too much time
-scoping up PRs, meticulously describing them and having them reviewed.
+We can end up spending less time creating value if we spend too much time
+making the perfect PR.
 
 ### Flow state
 
