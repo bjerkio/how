@@ -132,14 +132,17 @@ You should consider if the code in a PR has:
 
 ## When not to review a pull request
 
-### Solo stuff
+Code review is not a hard rule. We do not enforce code review as
+it does not necessarily add value if it is done out of habit.
+
+### Silo coding
 
 We usually prefer collaboration and having a high bus factor.
 However, we cannot afford full horizontal distribution
-of all knowledge and skills in every context.
+of all knowledge and skills in every context. Some siloing is to be expected.
 
-Since a reviewer should only approve pull requests they fully understand,
-we will therefore sometimes have to forego code review.
+In such cases we have to forego code review since a reviewer
+should only approve pull requests they fully understand.
 
 ### Quick little things
 
@@ -148,18 +151,15 @@ the value add of a review cycle is often not worth causing delays
 and interrupting flow state (for two or more developers).
 
 We can end up spending less time creating value if we spend too much time
-making the perfect PR.
+authoring PRs and reviewing PRs. One small PR may not take a lot of time to review,
+but if you review 1-3 tiny PRs every hour your general productivity will stoop.
 
-### Flow state
-
-One programmer in flow state can achieve a lot in a short time
-
-## Alternatives to pull requests
+## Alternatives to code review
 
 In many cases, an asynchronous back and forth conversation in a pull request
  will require multiple people to stop what they're doing and switch contexts
  multiple times during the lifetime of the pull request.
 
-It can often be more effective to hash it out in a quick huddle.
+It can often be a lot more effective to hash things out in a quick huddle.
 
-Pair programming is another way to achieve many of the same benefits as pull requests.
+Pair programming is another way to achieve many of the same benefits as code review.
